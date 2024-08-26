@@ -4,14 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="485970d1-d992-478f-8041-302021a7fbd8" name="Changes" comment="" />
+    <list default="true" id="485970d1-d992-478f-8041-302021a7fbd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/amplify/auth/resource.ts" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/auth/resource.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/amplify/backend.ts" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/backend.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/amplify/data/resource.ts" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/data/resource.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/amplify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/amplify/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/eslint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/public/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/src/assets/react.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/react.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilesapp/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/profilesapp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -20,6 +40,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2lCQK3jCnx5xXgSemsxnrcNGnZz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +59,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,6 +75,8 @@
       <workItem from="1724681511538" duration="116000" />
       <workItem from="1724681661309" duration="468000" />
       <workItem from="1724682132155" duration="2000" />
+      <workItem from="1724682143345" duration="2282000" />
+      <workItem from="1724684950289" duration="3000" />
     </task>
     <servers />
   </component>
